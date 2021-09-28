@@ -5,4 +5,4 @@ asdasdksfmsfkegjera
 sdasd
 asdasdasdsdfgsdg
 
-[lorem ipsum] (http://google.com)
+[lorem ipsum](http://google.com)
